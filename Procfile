@@ -1,3 +1,5 @@
 web: npm start
-var server=app.listen(port,function() {
-console.log("app running on port 8080"); });
+{
+"start": "cross-env NODE_ENV=production node compiled/server.js",
+"heroku-postbuild": "npm run build"
+}
