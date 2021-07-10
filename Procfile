@@ -1,1 +1,1 @@
-web: npm start package.json
+web: npm package.json
