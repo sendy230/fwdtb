@@ -1,1 +1,1 @@
-web: node albumMeBot.js
+worker: python3 albumMeBot.js
