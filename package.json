@@ -15,3 +15,6 @@
   "author": "",
   "license": "ISC"
 }
+"scripts": {
+    "start": "node albumMeBot.js"
+}
