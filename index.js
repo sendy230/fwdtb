@@ -2,8 +2,6 @@ const Telegraf = require('telegraf')
 const TelegrafI18n = require('telegraf-i18n')
 const TelegrafLocalSession = require('telegraf-session-local')
 const path = require('path')
- var server=app.listen(port,function() {
-console.log("app running on port 8080"); });
 
 // Prepare i18n
 const i18n = new TelegrafI18n({
