@@ -1,1 +1,1 @@
-worker: python3 albumMeBot.js
+web: npm package.json
