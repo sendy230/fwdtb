@@ -2,7 +2,7 @@
   "name": "albummebot",
   "version": "1.0.0",
   "description": "Jam multiple pictures together so they form albums",
-  "main": "albumMeBot.js",
+  "main": "index.js",
   "dependencies": {
     "telegraf": "^3.22.1",
     "telegraf-i18n": "^6.1.1",
