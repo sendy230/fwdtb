@@ -17,9 +17,6 @@
     },
   "buildpacks": [
     {
-      "url": "https://github.com/lullaby23/fwdtb/tree/master"
-    },
-    {
       "url": "heroku/nodejs"
     }
   ]
