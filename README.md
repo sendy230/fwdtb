@@ -1,4 +1,4 @@
-Album Creator (Telegram bot)
+Album Creator
 ============================
 
 Forward this bot a bunch of videos and photos and he will create one or more beautiful albums for you. Useful if you just want to group together some forwarded media.
