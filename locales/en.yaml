@@ -1,4 +1,4 @@
-greeting: "Hello ${username}! Buat group dari foto atau video tanpa harus upload ulang,\n\nForward me any Photo's Or Videos!\n\n"
+greeting: "Hello ${username}! Bot Ini Bergungsi untuk membuat group dari foto atau video tanpa harus repot upload ulang,\n\nForward me any Photo's Or Videos!\n\n"
 help: 'Just forward or send me multiple photos and/or videos. Once you are done, press the "Create Album" Button and get all your previously sent files jammed together as albums. If you screwed up, click "Clear Album" to start again.\n\nThis piece of shit is made by @wjclub.'
 settings: 'Join Our Channel @foryoubbs'
 source: "https://github.com/lullaby23/fwdtb"
