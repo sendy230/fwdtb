@@ -17,7 +17,7 @@
     },
     "buildpacks": [
         {
-            "url": "https://github.com/lullaby23/fwdtb"
+            "url": "https://github.com/lullaby23/fwdtb/tree/master"
         }
     ],
     "formation": {
