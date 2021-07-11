@@ -1,0 +1,29 @@
+{
+    "name": "Telegram Files Store Bot",
+    "description": "A Telegram Files Store Bot in Pyrogram by @AbirHasan2005",
+    "keywords": [
+        "telegram",
+        "files",
+        "store",
+        "bot"
+    ],
+    "repository": "https://github.com/lullaby23/fwdtb/",
+    "website": "https://telegram.dog/foryoubbs",
+    "success_url": "https://t.me/fybadmin",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Dapatkan Token Dari @botfather :)"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
