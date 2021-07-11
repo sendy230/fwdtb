@@ -15,15 +15,12 @@
             "description": "Dapatkan Token Dari @botfather :)"
         }
     },
-    "buildpacks": [
-        {
-            "url": "https://github.com/lullaby23/fwdtb/tree/master"
-        }
-    ],
-    "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "free"
-        }
+  "buildpacks": [
+    {
+      "url": "https://github.com/lullaby23/fwdtb/tree/master"
+    },
+    {
+      "url": "heroku/nodejs"
     }
+  ]
 }
