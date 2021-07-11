@@ -17,7 +17,7 @@
     },
     "buildpacks": [
         {
-            "url": "heroku/python"
+            "url": "https://github.com/lullaby23/fwdtb"
         }
     ],
     "formation": {
